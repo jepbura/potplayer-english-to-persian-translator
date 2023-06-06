@@ -14,14 +14,11 @@ jobs:
         with:
           python-version: 3.x
 
-      - name: Checkout repository
-        uses: actions/checkout@v2
-
       - name: Install dependencies
         run: pip install twine
 
       - name: Build package
-        run: python setup.py sdist --dist-dir dist
+        run: python -m build
 
       - name: Publish package to PyPI
         run: twine upload dist/*
