@@ -19,7 +19,7 @@ In the normal mode, **Potplayer** can simultaneously translate all the subtitles
 After installing `Python` and `pip`, you only need to install `EnToFa` by running the following command:
 
 ```bash
-	pip install EnToFa
+pip install EnToFa
 ```
 
 That's it!
