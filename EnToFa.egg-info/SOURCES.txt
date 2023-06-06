@@ -1,0 +1,10 @@
+LICENSE
+README.md
+setup.py
+translator.py
+EnToFa.egg-info/PKG-INFO
+EnToFa.egg-info/SOURCES.txt
+EnToFa.egg-info/dependency_links.txt
+EnToFa.egg-info/entry_points.txt
+EnToFa.egg-info/requires.txt
+EnToFa.egg-info/top_level.txt

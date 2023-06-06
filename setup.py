@@ -1,8 +1,8 @@
-from setuptools import setup
+from setuptools import setup, find_packages
 
 setup(
     name='EnToFa',
-    version='1.0',
+    version='1.4',
     py_modules=['translator'],
     install_requires=[
         'requests',
@@ -11,5 +11,10 @@ setup(
     entry_points='''
         [console_scripts]
         EnToFa=translator:main
-    '''
+    ''',
+    package_data={
+        '': ['README.md'],
+        'EnToFa': ['assets/images/*'],
+    },
+    packages=find_packages(),
 )
