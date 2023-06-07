@@ -9,7 +9,7 @@ jobs:
   publish:
     runs-on: ubuntu-latest
     steps:
-      - name: Set up Python
+      - name: Set Up Python
         uses: actions/setup-python@v2
         with:
           python-version: 3.x
@@ -17,11 +17,8 @@ jobs:
       - name: Install dependencies
         run: pip install twine
 
-      - name: LS
-        run: ls
-
       - name: Build package
-        run: python setup.py sdist
+        run: python setup.py sdist --dist-dir dist
 
       - name: Publish package to PyPI
         run: twine upload dist/*
