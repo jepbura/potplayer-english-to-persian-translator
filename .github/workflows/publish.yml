@@ -10,15 +10,15 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Set Up Python
-        uses: actions/setup-python@v2
+        uses: actions/setup-python@v3
         with:
           python-version: 3.x
 
       - name: Install dependencies
-        run: pip install twine
+        run: python3 -m pip install build twine
 
       - name: Build package
-        run: python ./setup.py sdist --dist-dir ./dist
+        run: python3 -m build
 
       - name: Publish package to PyPI
         run: twine upload dist/*
