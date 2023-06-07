@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 setup(
     name='EnToFa',
-    version='1.4',
+    version='1.4.1',
     py_modules=['translator'],
     install_requires=[
         'requests',

@@ -4,7 +4,7 @@
   Potplayer English To Persian Translator
 </h1>
 
-<p align="center"><img src="/assets/images/07.png" alt="E2F" /></p>
+<p align="center"><img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/07.png" alt="E2F" /></p>
 
 - [What is EnToFa?](#what-is-bura-cli)
 - [Installation Windows](#installation-windows)
@@ -31,7 +31,7 @@ That's it!
 	<br/>
 	<div>Right-click on an English word and then click on "Customize."</div>
 	<br/>
-	<img src="/assets/images/01.png" alt="01 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/01.png" alt="01 png" />
 </details>
 
 <details>
@@ -39,7 +39,7 @@ That's it!
 	<br/>
 	<div>Click on "Add".</div>
 	<br/>
-	<img src="/assets/images/02.png" alt="02 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/02.png" alt="02 png" />
 </details>
 
 <details>
@@ -49,7 +49,7 @@ That's it!
 	<div>Title: Translator</div>
 	<div>Path: EnToFa "%%SS"</div>
 	<br/>
-	<img src="/assets/images/03.png" alt="03 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/03.png" alt="03 png" />
 </details>
 
 <details>
@@ -57,7 +57,7 @@ That's it!
 	<br/>
 	<div>Click on "Ok".</div>
 	<br/>
-	<img src="/assets/images/04.png" alt="04 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/04.png" alt="04 png" />
 </details>
 
 <details>
@@ -65,7 +65,7 @@ That's it!
 	<br/>
 	<div>Click on the newly entered information and use the "Up" button to move it to the top.</div>
 	<br/>
-	<img src="/assets/images/05.png" alt="05 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/05.png" alt="05 png" />
 </details>
 
 <details>
@@ -73,7 +73,7 @@ That's it!
 	<br/>
 	<div>As you can see, our information is being recorded.</div>
 	<br/>
-	<img src="/assets/images/06.png" alt="06 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/06.png" alt="06 png" />
 </details>
 
 <details>
@@ -81,7 +81,7 @@ That's it!
 	<br/>
 	<div>By clicking on each word, a translation of that word into Persian will appear as a notification.</div>
 	<br/>
-	<img src="/assets/images/07.png" alt="07 png" />
+	<img src="https://raw.githubusercontent.com/jepbura/potplayer-english-to-persian-translator/master/assets/images/07.png" alt="07 png" />
 </details>
 
 ## License
