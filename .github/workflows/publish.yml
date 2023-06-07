@@ -18,7 +18,7 @@ jobs:
         run: pip install twine
 
       - name: Build package
-        run: python setup.py sdist --dist-dir dist
+        run: python potplayer-english-to-persian-translator/setup.py sdist --dist-dir dist
 
       - name: Publish package to PyPI
         run: twine upload dist/*
