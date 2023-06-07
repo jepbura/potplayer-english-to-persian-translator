@@ -10,7 +10,7 @@
 - [Installation Windows](#installation-windows)
 - [Potplayer Settings](#potplayer-settings)
 
-## What is EnToFa?
+## What is [EnToFa](https://pypi.org/project/EnToFa)?
 
 In the normal mode, **Potplayer** can simultaneously translate all the subtitles and, for individual words, if you click on the word, it will open the word's translation in your browser, which may take a considerable amount of time. However, with **EnToFa**, which is a Python code, it translates words from English to Persian instantly. This version is only available for Windows.
 
